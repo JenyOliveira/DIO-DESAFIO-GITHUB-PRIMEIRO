@@ -1,0 +1,25 @@
+## Link para Introdução ao .NET:
+
+- Visão geral e história
+
+https://docs.google.com/presentation/d/1CxUS5QHCu4mqMiCoMqbMpGjUntIlpYSc/edit#slide=id.p5
+
+- Sobre
+.NET GRAMEWORK
+.NET / .NET CORE
+ASP.NER / ASP.NET CORE
+XAMARIN
+
+https://docs.google.com/presentation/d/1FvIKgAR2AAA5q6CWxiUYCRt3UI88OqMP/edit#slide=id.p5
+
+PADRÕS DE CODIFICAÇÃO:
+
+https://docs.google.com/presentation/d/1Vhee732MMbZIELQEWDx1CSwVyNinyYN1/edit#slide=id.p5
+
+LINGUAGENS E FERRAMENTAS .NET:
+
+https://docs.google.com/presentation/d/1f99uXpF7vx12B1-RXewflQ_kZzc32mk-/edit#slide=id.p5
+
+ESCOLHER ENTRE .NET OU .NET FRAMEWORK / ASP .NET OU ASP .NET 4
+
+https://web.dio.me/course/introducao-ao-ecossistema-net-e-documentacao/learning/1c2d6ff2-5079-41d8-aa7a-2b4241b88823?back=/track/banco-carrefour-woman-developer
